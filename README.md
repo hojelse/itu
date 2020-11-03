@@ -8,8 +8,8 @@
 ### 2. Semester
 - FST - First Year Project [/bong-maps](https://github.com/hojelse/bong-maps)🗺 [/fst-handins](https://github.com/hojelse/fst-handins)
 - BADS - Algorithms and Datastructures [/bads](https://github.com/hojelse/bads)
-- SDBG - Systematic Design of User Interfaces [/LayoutIT](https://github.com/hojelse/LayoutIT)🎨
+- SDBG - Systematic Design of User Interfaces [/LayoutIT](https://github.com/hojelse/LayoutIT)🎨 [/meme-generator](https://github.com/hojelse/meme-generator)
 
 ### 1. Semester
-- GRPRO - Fundamental Programming [/llama-video](https://github.com/hojelse/llama-video)🦙
+- GRPRO - Fundamental Programming [/llama-video](https://github.com/hojelse/llama-video)🦙 [/BlueJ-projects](https://github.com/hojelse/BlueJ-projects)
 - FCDM - Discrete Mathematics [/bads](https://github.com/hojelse/bads)
