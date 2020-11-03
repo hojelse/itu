@@ -6,7 +6,7 @@
 - DSYS - Distributed Systems [/dsys](https://github.com/hojelse/dsys) [/dsys_miniproject](https://github.com/hojelse/dsys_miniproject)
 
 ### 2. Semester
-- FST - First Year Project [/bong-maps](https://github.com/hojelse/bong-maps)🗺
+- FST - First Year Project [/bong-maps](https://github.com/hojelse/bong-maps)🗺 [/fst-handins](https://github.com/hojelse/fst-handins)
 - BADS - Algorithms and Datastructures [/bads](https://github.com/hojelse/bads)
 - SDBG - Systematic Design of User Interfaces [/LayoutIT](https://github.com/hojelse/LayoutIT)🎨
 
