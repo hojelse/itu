@@ -13,3 +13,6 @@
 ### 1. Semester
 - GRPRO - Fundamental Programming [/llama-video](https://github.com/hojelse/llama-video)🦙 [/BlueJ-projects](https://github.com/hojelse/BlueJ-projects)
 - FCDM - Discrete Mathematics [/bads](https://github.com/hojelse/bads)
+
+### Other
+- Kattis 😻 - [/themagicstrings/lillekat](https://github.com/themagicstrings/lillekat)
