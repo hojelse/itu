@@ -3,7 +3,7 @@
 ### 4. Semester
 - ISE - Industrial Software Engineering (SDLT)
   - [/ise](https://github.com/hojelse/ise)
-  - [/bsup](https://github.com/hojelse/bsup)
+  - [/sdpo](https://github.com/hojelse/sdpo)
 
 ### 3. Semester
 - BDSA - Analysis, Design and Software Architecture 
