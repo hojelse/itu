@@ -33,5 +33,5 @@
   - [/fcdm](https://github.com/hojelse/fcdm)
 
 ### Other
-- Kattis 😻
+- Lillekat 😻
   - [/themagicstrings/lillekat](https://github.com/themagicstrings/lillekat)
