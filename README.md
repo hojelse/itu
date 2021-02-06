@@ -20,7 +20,7 @@
   - [/bong-inc/bong-maps](https://github.com/bong-inc/bong-maps)🗺
   - [/fst](https://github.com/hojelse/fst)
 - BADS - Algorithms and Datastructures
-  - [/bads](https://github.com/hojelse/bads)
+  - [/ads](https://github.com/hojelse/ads)
 - SDBG - Systematic Design of User Interfaces
   - [/LayoutIT](https://github.com/hojelse/LayoutIT)🎨
   - [/meme-generator](https://github.com/hojelse/meme-generator)
