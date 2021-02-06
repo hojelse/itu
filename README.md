@@ -30,7 +30,7 @@
   - [/llama-video](https://github.com/hojelse/llama-video)🦙
   - [/BlueJ-projects](https://github.com/hojelse/BlueJ-projects)
 - FCDM - Discrete Mathematics
-  - [/bads](https://github.com/hojelse/bads)
+  - [/fcdm](https://github.com/hojelse/fcdm)
 
 ### Other
 - Kattis 😻
