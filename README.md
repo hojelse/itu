@@ -18,7 +18,7 @@
 ### 2. Semester
 - FST - First Year Project
   - [/bong-inc/bong-maps](https://github.com/bong-inc/bong-maps)🗺
-  - [/fst-handins](https://github.com/hojelse/fst-handins)
+  - [/fst](https://github.com/hojelse/fst)
 - BADS - Algorithms and Datastructures
   - [/bads](https://github.com/hojelse/bads)
 - SDBG - Systematic Design of User Interfaces
