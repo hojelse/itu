@@ -2,8 +2,14 @@
 
 ### 4. Semester
 - ISE - Industrial Software Engineering (SDLT)
-  - [/ise](https://github.com/hojelse/ise)
-  - [/sdpo](https://github.com/hojelse/sdpo)
+  - [/simcorp/nats-topology-visualiser](https://github.com/simcorp/nats-topology-visualiser)
+  - [/solid-fluid/nats-topology-visualiser](https://github.com/solid-fluid/nats-topology-visualiser)
+- BSUP
+- FP - Functional Programming
+  - [/fp](https://github.com/hojelse/fp)
+- DevOps
+  - [/themagicstrings/twooter](https://github.com/themagicstrings/twooter)
+
 
 ### 3. Semester
 - BDSA - Analysis, Design and Software Architecture 
