@@ -1,4 +1,4 @@
-# Repositories for my ITU courses
+# Index of Repositories for my ITU courses
 
 ### 4. Semester
 - ISE - Industrial Software Engineering (SDLT)
