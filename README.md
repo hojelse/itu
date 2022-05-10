@@ -1,5 +1,21 @@
 # Index of Repositories for my ITU courses
 
+### 6. Semester
+- Bachelor project
+  - [/git-truck/git-truck](https://github.com/git-truck/git-truck)
+- IAI - Introduction to AI
+  - [/iai](https://github.com/hojelse/iai/)
+  - [/nutellaAI](https://github.com/hojelse/nutellaAI/)
+- RIT - Reflections on IT
+
+### 5. Semester
+- PSD
+  - [/psd](https://github.com/hojelse/psd)
+  - [/psd](https://github.com/hojelse/psd-exam)
+- COS
+  - [/cos](https://github.com/hojelse/cos)
+- BFOP
+
 ### 4. Semester
 - ISE - Industrial Software Engineering (SDLT)
   - [/simcorp/nats-topology-visualiser](https://github.com/simcorp/nats-topology-visualiser)
@@ -9,7 +25,6 @@
   - [/fp](https://github.com/hojelse/fp)
 - DevOps
   - [/themagicstrings/twooter](https://github.com/themagicstrings/twooter)
-
 
 ### 3. Semester
 - BDSA - Analysis, Design and Software Architecture 
