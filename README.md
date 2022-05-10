@@ -11,7 +11,7 @@
 ### 5. Semester
 - PSD
   - [/psd](https://github.com/hojelse/psd)
-  - [/psd](https://github.com/hojelse/psd-exam)
+  - [/psd-exam](https://github.com/hojelse/psd-exam)
 - COS
   - [/cos](https://github.com/hojelse/cos)
 - BFOP
