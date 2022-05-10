@@ -1,4 +1,4 @@
-# Index of Repositories for my ITU courses
+# Index of repositories for my ITU courses
 
 ### 6. Semester
 - Bachelor project
