@@ -23,6 +23,7 @@
 - BSUP
 - FP - Functional Programming
   - [/fp](https://github.com/hojelse/fp)
+  - [/Kyhl/Scrubble](https://github.com/Kyhl/Scrubble)
 - DevOps
   - [/themagicstrings/twooter](https://github.com/themagicstrings/twooter)
 
