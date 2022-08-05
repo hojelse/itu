@@ -1,58 +1,35 @@
 # Index of repositories for my ITU courses
 
-### 6. Semester
-- Bachelor project
-  - [/git-truck/git-truck](https://github.com/git-truck/git-truck)
-- IAI - Introduction to AI
-  - [/iai](https://github.com/hojelse/iai/)
-  - [/nutellaAI](https://github.com/hojelse/nutellaAI/)
-- RIT - Reflections on IT
-
-### 5. Semester
-- PSD
-  - [/psd](https://github.com/hojelse/psd)
-  - [/psd-exam](https://github.com/hojelse/psd-exam)
-- COS
-  - [/cos](https://github.com/hojelse/cos)
-- BFOP
-
-### 4. Semester
-- ISE - Industrial Software Engineering (SDLT)
-  - [/simcorp/nats-topology-visualiser](https://github.com/simcorp/nats-topology-visualiser)
-  - [/solid-fluid/nats-topology-visualiser](https://github.com/solid-fluid/nats-topology-visualiser)
-- BSUP
-- FP - Functional Programming
-  - [/fp](https://github.com/hojelse/fp)
-  - [/Kyhl/Scrubble](https://github.com/Kyhl/Scrubble)
-- DevOps
-  - [/themagicstrings/twooter](https://github.com/themagicstrings/twooter)
-
-### 3. Semester
-- BDSA - Analysis, Design and Software Architecture 
-  - [/bdsa](https://github.com/hojelse/bdsa)
-  - [/joglr/bdsa_project](https://github.com/joglr/bdsa_project)
-- IDBS - Database Systems
-  - [/idbs](https://github.com/hojelse/idbs)
-- DSYS - Distributed Systems
-  - [/dsys](https://github.com/hojelse/dsys)
-  - [/dsys_miniproject](https://github.com/hojelse/dsys_miniproject)
-
-### 2. Semester
-- FST - First Year Project
-  - [/bong-inc/bong-maps](https://github.com/bong-inc/bong-maps)🗺
-  - [/fst](https://github.com/hojelse/fst)
-- BADS - Algorithms and Datastructures
-  - [/ads](https://github.com/hojelse/ads)
-- SDBG - Systematic Design of User Interfaces
-  - [/LayoutIT](https://github.com/hojelse/LayoutIT)🎨
-  - [/meme-generator](https://github.com/hojelse/meme-generator)
-
-### 1. Semester
-- GRPRO - Fundamental Programming
-  - [/llama-video](https://github.com/hojelse/llama-video)🦙
-  - [/BlueJ-projects](https://github.com/hojelse/BlueJ-projects)
-- FCDM - Discrete Mathematics
-  - [/fcdm](https://github.com/hojelse/fcdm)
+|semester     |course |link                                                   |
+|:-:          |:-:    |:-:                                                    |
+|Fall 2022    |SEC1   |https://github.com/hojelse/sec1                        |
+|Fall 2022    |APRO   |https://github.com/hojelse/apro                        |
+|Fall 2022    |PCPP   |https://github.com/hojelse/pcpp                        |
+|Fall 2022    |ALDE   |https://github.com/hojelse/alde                        |
+|Spring 2022  |BAPRO  |https://github.com/git-truck/git-truck                 |
+|Spring 2022  |IAI    |https://github.com/hojelse/nutellaAI                   |
+|Spring 2022  |IAI    |https://github.com/hojelse/iai                         |
+|Fall 2021    |PSD    |https://github.com/hojelse/psd                         |
+|Fall 2021    |PSD    |https://github.com/hojelse/psd-exam                    |
+|Fall 2021    |COS    |https://github.com/hojelse/cos                         |
+|Spring 2021  |ISE    |https://github.com/simcorp/nats-topology-visualiser    |
+|Spring 2021  |ISE    |https://github.com/solid-fluid/nats-topology-visualiser|
+|Spring 2021  |FP     |https://github.com/hojelse/fp                          |
+|Spring 2021  |FP     |https://github.com/Kyhl/Scrubble                       |
+|Spring 2021  |DEVOPS |https://github.com/themagicstrings/twooter             |
+|Fall 2020    |BDSA   |https://github.com/hojelse/bdsa                        |
+|Fall 2020    |BDSA   |https://github.com/joglr/bdsa_project                  |
+|Fall 2020    |IDBS   |https://github.com/hojelse/idbs                        |
+|Fall 2020    |DSYS   |https://github.com/hojelse/dsys                        |
+|Fall 2020    |DSYS   |https://github.com/hojelse/dsys_miniproject            |
+|Spring 2020  |FST    |https://github.com/bong-inc/bong-maps                  |
+|Spring 2020  |FST    |https://github.com/hojelse/fst                         |
+|Spring 2020  |ADS    |https://github.com/hojelse/ads                         |
+|Spring 2020  |SDBG   |https://github.com/hojelse/LayoutIT                    |
+|Spring 2020  |SDBG   |https://github.com/hojelse/meme-generator              |
+|Fall 2019    |GRPRO  |https://github.com/hojelse/llama-video                 |
+|Fall 2019    |GRPRO  |https://github.com/hojelse/BlueJ-projects              |
+|Fall 2019    |FCDM   |https://github.com/hojelse/fcdm                        |
 
 ### Other
 - Lillekat 😻
